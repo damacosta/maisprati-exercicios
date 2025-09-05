@@ -49,20 +49,20 @@ O projeto foi dividido em 7 exercícios principais:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-
-* **HTML5**
-* **CSS3** (Flexbox, Grid, Media Queries, Variáveis)
-
----
-
 ## 🚀 Como Executar
 
-1. Clone o repositório:
+Clone o repositório:
 
 ```bash
 git clone https://github.com/damacosta/maisprati-exercicios-js.git
 ```
 
+## Como visualizar 👀
+
+Basta abrir o arquivo `perfil.html` em qualquer navegador moderno para visualizar a página.
+
+## Autor ✨
+
+Danielle Costa — [LinkedIn](https://www.linkedin.com/in/daniellecostadev/) | [GitHub](https://github.com/damacosta)
 
 *💻 Este projeto foi desenvolvido por Danielle Costa, como parte da atividade do curso de Desenvolvimento FullStack da +PraTi.*
